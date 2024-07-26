@@ -1,0 +1,20 @@
+{
+    "name": "freakpay 😜",
+    "short_name": "FreakPay",
+    "icons": [
+      {
+        "src": "/freakbob.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/freakbob.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000"
+  }
